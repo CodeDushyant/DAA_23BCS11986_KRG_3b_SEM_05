@@ -13,3 +13,14 @@ Language: C++
 Tools: VS Code 
 
 GitHub: For version control and sharing
+
+
+🎯 Objectives
+
+Understand how different algorithms work
+
+Compare performances using time and space complexities
+
+Implement real-world algorithmic solutions
+
+
